@@ -119,3 +119,5 @@ GitHub push
 - 本番環境では `.env` は使用せず、SSM Parameter Store によって環境変数を注入してください
 - ブランチ名は `terraform.tfvars` で指定した `github_branch` に合わせてください
 - `push → CodePipeline → デプロイ` の自動化を前提としています
+
+deploy test2026-06-09
