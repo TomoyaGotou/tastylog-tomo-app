@@ -121,3 +121,4 @@ GitHub push
 - `push → CodePipeline → デプロイ` の自動化を前提としています
 
 deploy test2026-06-09
+deploy test2026-06-10
